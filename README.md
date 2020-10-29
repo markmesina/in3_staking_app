@@ -15,11 +15,8 @@ The Administrator executes a script on the backend to issue the DAPP tokens.
 - Ganache
 
 # Code At Work
-```html
-<div>
-<iframe src="https://drive.google.com/file/d/1MjNTOeytp7o_hKp6oNTkKwhf9wzhzNn2/preview" width="640" height="480"></iframe>
-</div>
-``` 
+<iframe src="https://drive.google.com/file/d/1MjNTOeytp7o_hKp6oNTkKwhf9wzhzNn2/preview" width="340" height="280"></iframe>
+
 
 ## License & copyright
 © Mark Mesina, Software Engineer
