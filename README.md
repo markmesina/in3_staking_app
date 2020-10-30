@@ -5,15 +5,15 @@ This application incentivize users who stake certain amounts of currency by bein
 The Administrator executes a script on the backend to issue the DAPP tokens.
 
 # Instructions
-initiate code on truffle framework
+- initiate code on truffle framework
 ```truffle compile```
-initiate contract
+- initiate contract
 ```truffle migrate```
-initiate client side application
+- initiate client side application
 ```npm run start```
-initiate tests
+- initiate tests
 ```truffle test```
-issue DAPP tokens to investor
+- issue DAPP tokens to investor
 ```truffle exec scripts/issue-token.js```
 
 
